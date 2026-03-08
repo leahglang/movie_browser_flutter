@@ -1,0 +1,37 @@
+{
+  "app_title": "דפדפן סרטים",
+  "favorites": "מועדפים",
+  "search_history": "היסטוריית חיפוש",
+
+  "search_hint": "חפש סרט...",
+  "search_button": "חפש",
+  "search_for_movies": "התחל לחפש סרטים!",
+  "no_results": "לא נמצאו תוצאות",
+
+  "movie_details": "פרטי הסרט",
+  "plot": "עלילה",
+  "no_plot_available": "אין תיאור עלילה זמין לסרט זה.",
+  "year": "שנה",
+  "type": "סוג",
+  "poster_label": "כרזה",
+  "add_favorite": "הוסף למועדפים",
+  "remove_favorite": "הסר מהמועדפים",
+
+  "movie": "סרט",
+  "series": "סדרה",
+  "game": "משחק",
+
+  "network_error": "אין חיבור לאינטרנט",
+  "api_key_error": "מפתח ה-API אינו תקין",
+  "server_error": "שגיאת שרת, נא לנסות שוב מאוחר יותר",
+  "movie_not_found": "הסרט לא נמצא",
+  "something_went_wrong": "אירעה שגיאה בלתי צפויה",
+  "error_load_movie": "שגיאה בטעינת פרטי הסרט",
+  "error_load_favorites": "שגיאה בטעינת המועדפים",
+  "error_remove_favorite": "לא ניתן להסיר מהמועדפים",
+  "failed_to_add_favorite": "ההוספה למועדפים נכשלה",
+
+  "tap_to_view_details": "לחץ פעמיים לצפייה בפרטי הסרט",
+  "open_movie_details": "לחץ פעמיים כדי לראות פרטי סרט",
+  "no_favorites": "רשימת המועדפים שלך ריקה"
+}

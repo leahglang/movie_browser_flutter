@@ -1,0 +1,37 @@
+{
+  "app_title": "Movie Browser",
+  "favorites": "Favorites",
+  "search_history": "Search History",
+
+  "search_hint": "Search movie...",
+  "search_button": "Search",
+  "search_for_movies": "Start searching for movies!",
+  "no_results": "No results found",
+
+  "movie_details": "Movie Details",
+  "plot": "Plot",
+  "no_plot_available": "No plot description available for this movie.",
+  "year": "Year",
+  "type": "Type",
+  "poster_label": "Poster",
+  "add_favorite": "Add to Favorites",
+  "remove_favorite": "Remove from Favorites",
+
+  "movie": "Movie",
+  "series": "Series",
+  "game": "Game",
+
+  "network_error": "No internet connection",
+  "api_key_error": "Invalid API Key",
+  "server_error": "Server error, please try again later",
+  "movie_not_found": "Movie not found",
+  "something_went_wrong": "An unexpected error occurred",
+  "error_load_movie": "Failed to load movie details",
+  "error_load_favorites": "Failed to load favorites",
+  "error_remove_favorite": "Could not remove from favorites",
+  "failed_to_add_favorite": "Failed to save to favorites",
+
+  "tap_to_view_details": "Double tap to view movie details",
+  "open_movie_details": "Double tap to view movie details",
+  "no_favorites": "Your favorites list is empty"
+}
